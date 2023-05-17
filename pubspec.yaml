@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.7.3
-  figuras_flame: ^0.0.5
+  figuras_flame: ^0.0.6
 
 
   # The following adds the Cupertino Icons font to your application.
